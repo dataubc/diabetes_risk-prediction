@@ -1,7 +1,8 @@
 # Early-stage diabetes risk prediction:
 
 ![alt text](https://live.staticflickr.com/2919/14366209098_75ab52907c.jpg)
-[Link to image source](https://live.staticflickr.com/2919/14366209098_75ab52907c.jpg)
+
+[image source](https://live.staticflickr.com/2919/14366209098_75ab52907c.jpg)
 
 - According to the world health organization. There was a significant rise in the number of people with diabetes from 108 million to 422 million between 1980 and 2014. Additionally, there was about a 5% increase in premature death from diabetes in the last 16 years.
 
