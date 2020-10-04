@@ -1,6 +1,6 @@
 # Early-stage diabetes risk prediction:
 
-![Test Image 1]('images/dia.png')
+![Test Image 1]('images/dia.jpg')
 - According to the world health organization. There was a significant rise in the number of people with diabetes from 108 million to 422 million between 1980 and 2014. Additionally, there was about a 5% increase in premature death from diabetes in the last 16 years.
 
 - A logistic regression model to predict whether a person is likely to develop diabetes given age, sex, and other features such as sudden weight loss, visual blurring, etc. Since the data has some imbalance, SMOTE was used.  Recursive feature elimination was performed to determine the most important features and remove features that don't improve the model. The accuracy, precision, and recall before and after removing those features were compared. To automate the data analysis, a pipeline for data scaling and modeling was built. For reproducibility, I used a docker was to share the containerized app.
